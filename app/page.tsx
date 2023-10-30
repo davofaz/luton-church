@@ -7,7 +7,7 @@ export default function Home() {
           <Navigation />
           <section id="about" className="pt-6">
              
-             <h3 className="text-3xl capitalize font-medium text-violet-900 font-sans mt-4">News & Annoucements</h3>
+             <h3 className="text-3xl capitalize font-medium text-violet-900 font-sans mt-4">News & Announcements</h3>
              <p className="text-sm mt-2">Luton International Church is raising funds for suffering communities and churches in Pakistan. If you wish to sow into this area please use the details below:</p>
              <ul className="text-sm font-bold mt-2">
              <li>LIC Account Number: 00547400</li>
