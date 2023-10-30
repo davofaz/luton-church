@@ -5,6 +5,17 @@ export default function Home() {
   return (
     <main className=" flex-1 flex-col container ml-auto mr-auto px-5 mt-6 pb-20 max-w-screen-lg"  id="home">
           <Navigation />
+          <section id="about" className="pt-6">
+             
+             <h3 className="text-3xl capitalize font-medium text-violet-900 font-sans mt-4">News & Annoucements</h3>
+             <p className="text-sm mt-2">Luton International Church is raising funds for suffering communities and churches in Pakistan. If you wish to sow into this area please use the details below:</p>
+             <ul className="text-sm font-bold mt-2">
+             <li>LIC Account Number: 00547400</li>
+             <li>Sort Code: 30-95-28</li>
+             <li>Registered Charity: 1091462</li>
+             </ul>
+             
+         </section>
           <section id="about" className="py-12">
              <Image
                 className="mt-8 px-2"
